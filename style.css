@@ -16,9 +16,9 @@ body{
 .description {
     font-family: 'Roboto Mono', monospace;
     font-size: 16px;
-    color: #ffff;
-    margin-bottom: 20px;
-    margin-top: 50px;
+    color: red;
+    margin-bottom: 80px;
+    margin-top: 80px;
     text-align: center;
 }
 .wrapper{
